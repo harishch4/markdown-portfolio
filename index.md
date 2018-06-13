@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 {% include 01-name.md %}
 
@@ -11,4 +9,5 @@ layout: default
 <br>
 
 {% include 03-links.md %}
+
 
